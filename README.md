@@ -1,0 +1,3 @@
+- Currently working at University of Valencia as a researcher
+- Software engineer (bachelor degree)
+- Data Scientist (master degree)
